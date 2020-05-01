@@ -4,14 +4,16 @@
     <version>1.0</version>
     <compatibility>
         <firmware>
-            <maxiOS>13.0</maxiOS>
+            <miniOS>13.0</miniOS>
             <otherVersions>unsupported</otherVersions>
             <!--
              for otherVersions, you can put either unsupported or unconfirmed
              -->
         </firmware>
     </compatibility>
-    <dependencies>NewCam</dependencies>
+    <dependencies>
+        <package>NewCam</package>
+    </dependencies>
     <descriptionlist>
         <description>Fixes camera zoom when using NewCam</description>
     </descriptionlist>
