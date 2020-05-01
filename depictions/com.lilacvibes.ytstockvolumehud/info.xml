@@ -1,17 +1,21 @@
 <package>
-	<id>com.lilacvibes.ytstockvolumehud</id>
-	<name>YTStockVolumeHUD</name>
-	<version>1.0</version>
+	<id>com.supermamon.oldpackage</id>
+	<name>Old Package</name>
+	<version>1.0.0-1</version>
 	<compatibility>
 		<firmware>
-			<miniOS>13.0</miniOS>
+			<maxiOS>7.0</maxiOS>
 			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
 		</firmware>
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>Replaces YouTube's volume HUD with the stock volume HUD<br>Compatible with iOS 13<br>No options to configure</description>
+		<description>This is an old package. Requires iOS 7 and below..</description>
 	</descriptionlist>
+	<screenshots></screenshots>
 	<changelog>
 		<change>Initial release</change>
 	</changelog>

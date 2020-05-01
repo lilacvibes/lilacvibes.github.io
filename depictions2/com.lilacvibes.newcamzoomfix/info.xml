@@ -1,0 +1,19 @@
+<package>
+	<id>com.lilacvibes.newcamzoomfix</id>
+	<name>NewCamZoomFix</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>NewCam</dependencies>
+	<descriptionlist>
+		<description>Fixes camera zoom when using NewCam<br>Requires NewCam<br>Compatible with iOS 13<br>No options to configure</description>
+	</descriptionlist>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
