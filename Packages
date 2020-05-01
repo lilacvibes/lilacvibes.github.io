@@ -1,28 +1,32 @@
-Package: com.supermamon.newpackage
-Version: 2.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Package: com.lilacvibes.ytstockvolumehud
+Name: YTStockVolumeHUD
+Version: 1.0
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
-Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+Description: Replaces YouTube's volume HUD with the stock volume HUD
+Maintainer: lilacvibes
+Author: lilacvibes
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 13)
+Filename: debs/com.lilacvibes.ytstockvolumehud_1.0_iphoneos-arm.deb
+Size: 2438
+MD5sum: af3e93358610940305c28cc7cb173a80
+SHA1: 3babea9ae26a4046f7d1971619f952dcad5b60dc
+SHA256: 9f5f601d76088a86b6d70a805ff4609bd46a535607fcba42b32b070b65f2a0dc
+Depiction: https://lilacvibes.github.io/depictions/?p=com.lilacvibes.ytstockvolumehud
 
-Package: com.supermamon.oldpackage
-Version: 1.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
+Package: com.lilacvibes.newcamzoomfix
+Name: NewCamZoomFix
+Version: 1.0
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
-Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+Description: Fixes camera zoom when using NewCam
+Maintainer: lilacvibes
+Author: lilacvibes
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 13)
+Filename: debs/com.lilacvibes.newcamzoomfix_1.0_iphoneos-arm.deb
+Size: 2438
+MD5sum: af3e93358610940305c28cc7cb173a80
+SHA1: 3babea9ae26a4046f7d1971619f952dcad5b60dc
+SHA256: 9f5f601d76088a86b6d70a805ff4609bd46a535607fcba42b32b070b65f2a0dc
+Depiction: https://lilacvibes.github.io/depictions/?p=com.lilacvibes.newcamzoomfix
 
