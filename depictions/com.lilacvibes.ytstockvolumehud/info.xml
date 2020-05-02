@@ -13,7 +13,11 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>Replaces YouTube's volume HUD with the stock volume HUD</description>
+		<description><![CDATA[
+		Replaces YouTube's volume HUD with the stock volume HUD<br/> 
+		Compatible with iOS 13<br/>
+		No options to configure
+		]]></description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>

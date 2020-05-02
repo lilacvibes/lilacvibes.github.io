@@ -15,7 +15,12 @@
         <package>NewCam</package>
     </dependencies>
     <descriptionlist>
-        <description>Fixes camera zoom when using NewCam</description>
+        <description><![CDATA[
+		Fixes camera zoom when using NewCam<br/>
+		Requires NewCam<br/> 
+		Compatible with iOS 13<br/>
+		No options to configure
+		]]></description>
     </descriptionlist>
     <screenshots></screenshots>
     <changelog>
