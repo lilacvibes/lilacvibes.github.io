@@ -1,6 +1,6 @@
 <package>
-    <id>com.lilacvibes.newcamzoomfix</id>
-    <name>NewCamZoomFix</name>
+    <id>com.lilacvibes.camerapro11</id>
+    <name>CameraPro11</name>
     <version>1.0</version>
     <compatibility>
         <firmware>
@@ -12,12 +12,10 @@
         </firmware>
     </compatibility>
     <dependencies>
-        <package>NewCam</package>
     </dependencies>
     <descriptionlist>
         <description><![CDATA[
-		Fixes camera zoom when using NewCam<br/>
-		Requires NewCam<br/> 
+		Enables iPhone 11 camera UI for other devices<br/>
 		Compatible with iOS 13<br/>
 		No options to configure
 		]]></description>
