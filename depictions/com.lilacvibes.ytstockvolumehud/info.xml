@@ -23,5 +23,11 @@
 	<changelog>
 		<change>Initial release</change>
 	</changelog>
-	<links></links>
+    <links>
+        <link>
+            <name>Source code</name>
+            <url>https://github.com/lilacvibes/YTStockVolumeHUD</url>
+            <iconclass>fa fa-github</iconclass>
+        </link>
+    </links>
 </package>
